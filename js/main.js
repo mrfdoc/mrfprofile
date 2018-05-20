@@ -424,8 +424,8 @@
  
 	$('document').ready(function () {
 		var typed = new Typed('#typed', {
-			strings: ["My Name Is Muhammad Rizal Fahmi.", "mrfcreative.", "I'm an Industrial Engineer.","I'm a Designer.","I'm a Photographer."],
-			backSpeed: 30,
+			strings: ["Muhammad Rizal Fahmi.", "mrfcreative.", "Industrial Engineer.","Designer.","Photographer.", "Unique.", "Creativity.", "Innovation."],
+			backSpeed: 50,
 			typeSpeed: 100,
 			loop: true
 		});
