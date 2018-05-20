@@ -1506,7 +1506,7 @@ header .header-logo a {
   background-color: #151515;
   background-image: url(../images/Untitled-1.jpg);
   background-repeat: no-repeat;
-  background-position: 0 -100px;
+  background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
