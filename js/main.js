@@ -424,7 +424,7 @@
  
 	$('document').ready(function () {
 		var typed = new Typed('#typed', {
-			strings: ["Muhammad Rizal Fahmi.", "mrfcreative.", "Industrial Engineer.","Infographic Designer.","3D Designer.", "Photographer.", "Unique.", "Creativity.", "Innovation."],
+			strings: ["Muhammad Rizal Fahmi.", "mrfcreative.", "Industrial Engineer.","Infographic Designer.","3D Designer.","Mechanical Drafter.`", "Photographer.", "Unique.", "Creativity.", "Innovation."],
 			backSpeed: 50,
 			typeSpeed: 100,
 			loop: true
